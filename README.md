@@ -16,5 +16,8 @@ kibana : http://localhost:5601/
 run the solution and goto http://localhost:5601/ portal and create index under management > kibana > index patterns 
 
 
+https://www.linkedin.com/pulse/logging-elasticsearch-kibana-aspnet-core-docker-sudheesh-valathil/?published=t
+
+
 
 
