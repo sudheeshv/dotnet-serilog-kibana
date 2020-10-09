@@ -6,9 +6,10 @@ Logging with ElasticSearch, Kibana, ASP.NET Core and Docker
 goto \src\ElasticKIbanaDocker folder and run
 docker-compose up -d
 
-verify these two links are working 
-http://localhost:9200/
-http://localhost:5601/
+verify kibana and elastic serarch services are running 
+
+elasticsearch : http://localhost:9200/
+kibana : http://localhost:5601/
 
 # step two
 run the solution and goto http://localhost:5601/ portal and create index under management > kibana > index patterns 
