@@ -9,6 +9,7 @@ docker-compose up -d
 verify kibana and elastic serarch services are running 
 
 elasticsearch : http://localhost:9200/
+
 kibana : http://localhost:5601/
 
 # step two
